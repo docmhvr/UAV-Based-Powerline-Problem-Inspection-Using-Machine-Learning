@@ -1,1 +1,1 @@
-# CMPE-295A---Major-Project-1
+# CMPE-295A: Major-Project-1
