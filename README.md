@@ -10,6 +10,4 @@ In this project, we propose a Machine Learning approach to eliminate the need fo
 
 **!Note:** 
 
-The project is part of San Jose State University's Computer Engineering course: CMPE 295 - worked under the guidance of professor Dr. Jerry Gao.
-
-We are in the process of publishing a paper on the project and hence, the dataset/code/report will be provided here after the paper publication.
+The project is part of San Jose State University's Computer Engineering course: CMPE 295 - worked under the guidance of professor Dr. Jerry Gao. We are in the process of publishing a paper on the project and hence, the dataset/code/report will be provided here after the paper publication.
